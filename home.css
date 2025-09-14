@@ -1,0 +1,54 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+}
+.msg-container{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2vmin;
+}
+.smb{
+    border: 2px solid black;
+    background-color: rgb(125, 125, 136);
+    height: 25vmin;
+    width: 42vmin;
+     border-radius: 2rem;
+     display: flex;
+justify-content: center
+}
+.new {
+    height: 100px;
+    width: 120px;
+    border-radius: 2rem;
+    border: 3px solid gray;
+}
+.btn-h{
+text-transform: uppercase;
+text-decoration: underline;
+}
+.sm{height: 50px;
+    width: 60px;
+    border-radius: 2rem;
+    border: 3px solid gray;
+background-color: aquamarine;
+text-align: center
+;}
+   .ssm{
+ height: 30px;
+    width: 30px;
+    border-radius: 2rem;
+    border: 3px solid red;
+    font-size: x-large;
+;}
+.ssx{
+    height: 30px;
+    width: 30px;
+    border-radius: 2rem;
+    border: 3px solid blue;
+    font-size: x-large;
+    
+}
+   
